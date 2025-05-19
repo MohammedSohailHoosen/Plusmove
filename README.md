@@ -16,5 +16,5 @@ PlusMove is a Laravel-based delivery management system designed to efficiently m
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/MohammedSohailHoosen/Plusmove.git
    cd plusmove
